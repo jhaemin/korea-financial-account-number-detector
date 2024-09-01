@@ -1,4 +1,4 @@
-# Korean Financial Account Number Detector
+# Korea Financial Account Number Detector
 
 [금융결제원 CMS 계좌번호 체계](https://www.cmsedi.or.kr/cms/board/workdata)를 기반으로 대한민국 계좌번호의 기관을 판별하는 라이브러리입니다.
 
